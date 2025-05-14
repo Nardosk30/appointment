@@ -7,6 +7,7 @@ import javafx.collections.*;
 import javafx.geometry.*;
 import java.sql.*;
 
+
 public class AdminAppointmentPage extends Application {
 
     private TableView<Appointment> table = new TableView<>();
